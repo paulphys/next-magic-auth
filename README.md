@@ -3,7 +3,7 @@
 
 > Next.js Typescript starter with [Magic](https://magic.link/)'s passwordless authentication
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnextjs-magic)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnext-magic)
                              
 ### Built with
 -   [Next.js](https://nextjs.org/)
@@ -38,17 +38,17 @@ Follow the official [documentation](https://docs.magic.link/social-login) on how
 ## Develop locally
 
 ```bash
-git clone https://github.com/baulml/nextjs-magic.git
-cd nextjs-magic
+git clone https://github.com/baulml/next-magic.git
+cd next-magic
 yarn
 yarn dev
 ```
 
-Create a `.env` file similar to [`.env.example`](https://github.com/baulml/nextjs-magic/blob/main/.env.example) in the root of the application.
+Create a `.env` file similar to [`.env.example`](https://github.com/baulml/next-magic/blob/main/.env.example) in the root of the application.
 
 ## Deploy to Vercel ▲
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnextjs-magic)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnext-magic)
 
 - Add `NEXT_PUBLIC_MAGIC_KEY` as an [Environment Variable](https://vercel.com/docs/environment-variables) to the production build.
 
