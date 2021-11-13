@@ -1,7 +1,7 @@
 ![magic auth](/magic.png)
 #  Next.js + Magic Auth boilerplate
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnext-magic-auth)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fpaulphys%2Fnext-magic-auth)
                              
 ### Built with
 -   [Next.js](https://nextjs.org/)
@@ -42,11 +42,11 @@ yarn
 yarn dev
 ```
 
-Create a `.env` file similar to [`.env.example`](https://github.com/baulml/next-magic-auth/blob/main/.env.example) in the root of the application.
+Create a `.env` file similar to [`.env.example`](https://github.com/paulphys/next-magic-auth/blob/main/.env.example) in the root of the application.
 
 ## Deploy to Vercel ▲
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fbaulml%2Fnext-magic-auth)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fpaulphys%2Fnext-magic-auth)
 
 - Add `NEXT_PUBLIC_MAGIC_KEY` as an [Environment Variable](https://vercel.com/docs/environment-variables) to the production build.
 
