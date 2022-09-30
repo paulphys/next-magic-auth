@@ -10,7 +10,7 @@
 -   [Tailwind CSS](https://tailwindcss.com/)
 
 ## Demo
-Check out a live demo 👉 [magic.baul.ml](https://magic.baul.ml)
+Check out a live demo 👉 [https://email-auth.vercel.app](https://email-auth.vercel.app)
 
 ## Magic Auth
 [Magic](https://magic.link) is a passwordless authentication sdk that lets you plug and play different auth methods into your app. 
