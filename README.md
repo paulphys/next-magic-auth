@@ -36,7 +36,7 @@ Follow the official [documentation](https://docs.magic.link/social-login) on how
 ## Develop locally
 
 ```bash
-git clone https://github.com/baulml/next-magic-auth.git
+git clone https://github.com/paulphys/next-magic-auth.git
 cd next-magic-auth
 yarn
 yarn dev
